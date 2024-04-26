@@ -46,4 +46,6 @@ TL DR;
 
 Don’t bother trying to run Minikube on a Windows Home PC. Spin up a Linux instance instead. 
 
-I hope someone finds this useful and it save you time.
+I hope someone finds this useful and it save you time. If you'd like to check out my finding of learning and researching Kubernetes then check out my blog post
+
+https://www.cohezion.com.au/blog/kubernetes-k8-use-cases-pros-and-cons
